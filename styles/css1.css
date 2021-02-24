@@ -1,0 +1,29 @@
+* {
+	font-family: sans-serif;
+}
+
+.btn {
+	padding: 0.5rem 2rem;
+	cursor: pointer;
+}
+
+.green-btn {
+	background-color: green;
+	color: #fff;
+	border: none;
+}
+
+.box {
+	transition: 0.2s;
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+}
+
+.invalid {
+	border: 1px solid red;
+}
+
+.valid {
+	border: 1px solid green;
+}
