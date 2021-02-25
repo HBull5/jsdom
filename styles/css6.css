@@ -1,0 +1,17 @@
+.box {
+	border: 1px solid green;
+	height: 300px;
+	width: 300px;
+}
+
+.innerBox {
+	border: 1px solid red;
+	height: 50%;
+	width: 50%;
+}
+
+.centerBox {
+	border: 1px solid blue;
+	height: 50%;
+	width: 50%;
+}
