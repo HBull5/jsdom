@@ -1,0 +1,15 @@
+.validation:invalid {
+	border: 1px solid red;
+}
+
+.validation:valid {
+	border: 1px solid green;
+}
+
+.validation:focus:invalid {
+	outline-color: red;
+}
+
+.validation:focus:valid {
+	outline-color: green;
+}

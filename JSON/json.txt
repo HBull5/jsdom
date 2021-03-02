@@ -1,0 +1,5 @@
+* JSON is format that replaced XML 
+* Java Script Object Notation 
+* Most popular option 
+* Mostly the same as writing a JS object except: you must have double quotes (") around properties/keys and strings must have double quotes and not single quotes or back ticks 
+* You can include arrays just like in JS 
